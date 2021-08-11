@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello there the names Et43 or Ethan👋
 
-<!--
-**Et43/Et43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Im a young developer 🤓
+- 📚 Currently studying ICS (Introduction to Computer Science).
+- 🔧 I enjoy the backend of things more than the frontend.
+- 🎥 I like watching some anime in my spare time or talking to friends.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools I use:
+
+[<img align="left" alt="Python" width="26px" src="https://image.pngaaa.com/282/619282-middle.png" />][webdevplaylist]
+[<img align="left" alt="VB.NET" width="26px" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg" />][webdevplaylist]
+[<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />][webdevplaylist]
+[<img align="left" alt="Java" width="26px" src="https://e7.pngegg.com/pngimages/785/145/png-clipart-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+
+<br />
+<br />
