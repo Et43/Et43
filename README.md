@@ -3,7 +3,6 @@
 ## I just do shit
 - 📚 Currently studying ICS (Introduction to Computer Science).
 - 🔧 I enjoy the backend of things more than the frontend.
-- 🎥 I like watching some anime in my spare time or talking to friends.
 
 <br />
 
