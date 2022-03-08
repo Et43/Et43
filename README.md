@@ -6,9 +6,9 @@
 ![Instagram](https://img.shields.io/badge/_Et43_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Twitter](https://img.shields.io/badge/Et43-cyan?style=for-the-badge&logo=Twitter&logoColor=white) ![Twitter](https://img.shields.io/badge/Et43%234005-blue?style=for-the-badge&logo=Discord&logoColor=white)
 
 ### Some stuff about me:
-🎓 Currently studying ITCS (Information Technology and Computer Science) in some random African College
-🔧  Prefer working on the backend rather than the frontend.
-💡 Find web based services really interesting, as well as 
+🎓 Currently studying ITCS (Information Technology and Computer Science) in some random African College <br>
+🔧  Prefer working on the backend rather than the frontend. <br>
+💡 Find web based services really interesting, as well as. <br>
 
 ### 💻 Skill set
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
