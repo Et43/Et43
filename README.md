@@ -8,7 +8,7 @@
 ### Some stuff about me:
 🎓 Currently studying ITCS (Information Technology and Computer Science) in some random African College <br>
 🔧  Prefer working on the backend rather than the frontend. <br>
-💡 Find web based services really interesting, as well as. <br>
+💡 Find web based services and cybersecurity really interesting. <br>
 
 ### 💻 Skill set
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
