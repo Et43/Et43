@@ -1,19 +1,27 @@
-### Hello there the names Et43 or Ethan👋
+<div align="center">
+<h2> Hello There! I'm Ethan <img src="https://github.com/Et43/Et43/blob/main/wave-hello.gif" width="30px"></h2>
+<p>Most of the stuff on here is totally not copy pasted ;)</p>
+</div>
 
-## I just do shit
-- 📚 Currently studying ICS (Introduction to Computer Science).
-- 🔧 I enjoy the backend of things more than the frontend.
+![Instagram](https://img.shields.io/badge/_Et43_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Twitter](https://img.shields.io/badge/Et43-cyan?style=for-the-badge&logo=Twitter&logoColor=white) ![Twitter](https://img.shields.io/badge/Et43%234005-blue?style=for-the-badge&logo=Discord&logoColor=white)
 
-<br />
+### Some stuff about me:
+🎓 Currently studying ITCS (Information Technology and Computer Science) in some random African College
+🔧  Prefer working on the backend rather than the frontend.
+💡 Find web based services really interesting, as well as 
 
-### Languages and Tools I use:
+### 💻 Skill set
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-123456?style=for-the-badge&logo=Java&logoColor=white) ![JDA](https://img.shields.io/badge/-JDA-123456?style=for-the-badge&logo=Java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-056?style=for-the-badge&logo=Git&logoColor=white) ![Github](https://img.shields.io/badge/-GitHub-056?style=for-the-badge&logo=Github&logoColor=white)
 
-<img align="left" alt="Python" width="26px" src="https://image.pngaaa.com/282/619282-middle.png" />
-<img align="left" alt="VB.NET" width="26px" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg" />
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />
-<img align="left" alt="Java" width="26px" src="https://e7.pngegg.com/pngimages/785/145/png-clipart-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### 🤓GitHub Analytics
+<p align="center">
+<a href="https://github.com/Et43">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Et43&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Et43&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<br />
-<br />
+
