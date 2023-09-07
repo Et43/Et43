@@ -3,7 +3,6 @@
 <p>Most of the stuff on here is totally not copy pasted ;)</p>
 </div>
 
-<a href="https://instagram.com/_et43_">![Instagram](https://img.shields.io/badge/_Et43_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><a href="https://twitter.com/Ethan050927"> ![Twitter](https://img.shields.io/badge/Et43-cyan?style=for-the-badge&logo=Twitter&logoColor=white)</a> ![Twitter](https://img.shields.io/badge/Et43%234005-blue?style=for-the-badge&logo=Discord&logoColor=white)
 
 ### Some stuff about me:
 🎓 Currently studying ITCS (Information Technology and Computer Science) in some random African College <br>
