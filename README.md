@@ -5,15 +5,21 @@
 
 
 ### Some stuff about me:
-🎓 Currently studying ITCS (Information Technology and Computer Science) in some random African College <br>
+🎓 Currently a Cybersecurity Analyst Intern at MWRCybersec <br>
 🔧  Prefer working on the backend rather than the frontend. <br>
-💡 Find web based services and cybersecurity really interesting. <br>
+💡 Find application security and developement interesting. <br>
 
 ### 💻 Skill set
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-123456?style=for-the-badge&logo=Java&logoColor=white) ![JDA](https://img.shields.io/badge/-JDA-123456?style=for-the-badge&logo=Java&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-056?style=for-the-badge&logo=Git&logoColor=white) ![Github](https://img.shields.io/badge/-GitHub-056?style=for-the-badge&logo=Github&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white) <br>
+![Java](https://img.shields.io/badge/-Java-123456?style=for-the-badge&logo=java&logoColor=white) 
+![JDA](https://img.shields.io/badge/-JDA-123456?style=for-the-badge&logo=java&logoColor=white) <br>
+![Git](https://img.shields.io/badge/-Git-056?style=for-the-badge&logo=Git&logoColor=white) 
+![Github](https://img.shields.io/badge/-GitHub-056?style=for-the-badge&logo=Github&logoColor=white) <br>
+![Static Badge](https://img.shields.io/badge/-php-lightorange?style=for-the-badge&logo=php)
+![Static Badge](https://img.shields.io/badge/-VB.net-navy?style=for-the-badge&logo=visualbasic)
+
 
 ### 🤓GitHub Analytics
 <p align="center">
