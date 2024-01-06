@@ -5,7 +5,7 @@
 
 
 ### Some stuff about me:
-🎓 Currently a Cybersecurity Analyst Intern at MWRCybersec <br>
+🎓 Currently a Cybersecurity Consultant at MWRCybersec <br>
 🔧  Prefer working on the backend rather than the frontend. <br>
 💡 Find application security and developement interesting. <br>
 
