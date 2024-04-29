@@ -6,7 +6,7 @@
 
 ### Some stuff about me:
 🎓 Currently a Cybersecurity Consultant at MWRCybersec <br>
-🔧  Prefer working on the backend rather than the frontend. <br>
+🔧 AppSec Consultant (AppSec numba 1). <br>
 💡 Find application security and developement interesting. <br>
 
 ### 💻 Skill set
